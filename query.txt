@@ -1,0 +1,1 @@
+select name.name, work.name as work, salary.salary as salary from name, work, salary where name.id_work=work.id and name.id_salary=salary.id

@@ -29,16 +29,20 @@
         Tambah Data
       ![gambar](https://user-images.githubusercontent.com/52070105/61992665-7e743b00-b08b-11e9-8e65-01b046c031eb.png)
         
-        Alert Tambah Data
+        Alert Tambah Data Sukses
       ![gambar](https://user-images.githubusercontent.com/52070105/61992567-4ae4e100-b08a-11e9-985c-cdc8f6017b9a.png)
         
         Edit Data
       ![gambar](https://user-images.githubusercontent.com/52070105/61992574-78ca2580-b08a-11e9-895b-700854f7d862.png)
         
-        Alert Edit Data
+        Alert Edit Data Sukses
       ![gambar](https://user-images.githubusercontent.com/52070105/61992593-aca54b00-b08a-11e9-8de4-478e4c2a7c4e.png)
         
         Alert Konfirmasi Hapus Data
       ![gambar](https://user-images.githubusercontent.com/52070105/61992608-d78f9f00-b08a-11e9-8296-1fef85d1e23e.png)
+        
+        Hapus Data Sukses
+      ![gambar](https://user-images.githubusercontent.com/52070105/61992780-bd56c080-b08c-11e9-80c2-ba97a2e91bde.png)
+
 
 

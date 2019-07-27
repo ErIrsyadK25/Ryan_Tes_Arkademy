@@ -27,7 +27,7 @@
       ![gambar](https://user-images.githubusercontent.com/52070105/61992539-f3467580-b089-11e9-823f-002070bd7fdb.png)
         
         Tambah Data
-      ![gambar](https://user-images.githubusercontent.com/52070105/61992563-343e8a00-b08a-11e9-807f-82fe0ce38cbb.png)
+      ![gambar](https://user-images.githubusercontent.com/52070105/61992665-7e743b00-b08b-11e9-8e65-01b046c031eb.png)
         
         Alert Tambah Data
       ![gambar](https://user-images.githubusercontent.com/52070105/61992567-4ae4e100-b08a-11e9-985c-cdc8f6017b9a.png)

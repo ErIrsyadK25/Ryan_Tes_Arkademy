@@ -1,8 +1,6 @@
 <script>
 function sort_array(data){
-data.sort(function(a,b){
- return a.length - b.length; //ASC, For Descending order use: b - a
-});
+data.sort((a,b)=> a.sort() && b.sort() && a.length - b.length);
 console.log(data);
 }
 
@@ -14,3 +12,4 @@ var data = [
 sort_array(data);
 
 </script>
+
